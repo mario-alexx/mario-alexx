@@ -1,5 +1,11 @@
 ### Hi 👋 Mario
 
+<div align="left">
+  <h3>Languajes and Tools</h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML">
+  </div>
+</div>
 <!--
 **mario-alexx/mario-alexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
