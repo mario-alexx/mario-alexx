@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxzNDBqYjBub2d5bXBhcDJ4MmJscjhvZHhqOTBtdW5wOHp2a21weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250" alt="Bienvenido a mi perfil">
+</p>
+
 # ¡Hola! Soy Mario
 
 ## Sobre mí
@@ -13,6 +17,7 @@ Soy un desarrollador backend especializado en .NET, apasionado por crear solucio
 ## 🚀 Proyectos Destacados
 
 ### 1️⃣ [E-commerce shop](https://github.com/mario-alexx/PowerPC-Station)
+
 🛠️ Tecnologías: .NET, Entityframework, Angular, Typescript
 📜 Descripción: Aplicación de una tienda de productos de informática  
 
